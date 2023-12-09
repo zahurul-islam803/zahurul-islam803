@@ -53,7 +53,7 @@ I'm currently exploring my knowledge. I'm try to achieve huge knowledge of devel
 
 ## ✍ Commit stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahurul-islam803&show_icons=true)  
+![Zahurul's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahurul-islam803&show_icons=true&theme=material-palenight) 
 
 
 ## 🌐 Reach Me:
