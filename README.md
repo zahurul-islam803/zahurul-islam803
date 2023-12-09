@@ -48,10 +48,11 @@ I'm currently exploring my knowledge. I'm try to achieve huge knowledge of devel
   - Authentication: Firebase with jwt.
   - Database: MongoDB.
 
-
-
-
 ## ✍ Commit stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zahurul-islam803&theme=material_palenight&utcOffset=6)
+
+
+## ✔️ Github stats:
 
 ![Zahurul's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahurul-islam803&show_icons=true&theme=material-palenight) 
 
