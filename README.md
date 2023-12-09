@@ -32,7 +32,7 @@ I'm currently exploring my knowledge. I'm try to achieve huge knowledge of devel
   - Back-End: Nodejs, Express.js.
   - Authentication: Firebase.
 
-## 1 Hotel Booking: 
+## 2 Hotel Booking: 
 - Description: This website is an hotel booking website. All types of hotel rooms  are available for users that they booking their wishes.
 - Used Technology: 
   - Front-End: javascript, tailwind css, react.
@@ -40,7 +40,7 @@ I'm currently exploring my knowledge. I'm try to achieve huge knowledge of devel
   - Authentication: Firebase with jwt.
   - Database: MongoDB.
 
-## 1 Tech Product: 
+## 3 Tech Product: 
 - Description: This website is an tech product website. Featured and Trending types of tech products are available for users.
 - Used Technology: 
   - Front-End: javascript, tailwind css, react.
