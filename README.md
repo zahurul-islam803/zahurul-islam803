@@ -10,7 +10,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zahurul-islam803&theme=monokai-metallian" alt="GitHub Streak" /></a>
 
 
-
 ## 💡 MY Skills:  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express)](https://skillicons.dev)
@@ -60,16 +59,12 @@ I'm currently exploring my knowledge. I'm try to achieve huge knowledge of devel
 ## 🌐 Reach Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zahurul-islams/)  
 
-## 📝 My Github Profile Summary:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahurul-islam803&theme=material_palenight)
-
-
-
 ## 👀 Overview
 
 - 🔭 I’m currently working on Github 
 - 🌱 I’m currently learning next.js 
-- 👯 I’m looking to collaborate on ohter's 
+- 👯 I’m looking to collaborate on ohter's
+- 
 
-
-
+## 📝 My Github Profile Summary:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahurul-islam803&theme=material_palenight)
