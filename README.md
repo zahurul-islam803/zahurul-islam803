@@ -24,8 +24,8 @@ I'm currently exploring my knowledge. I'm try to achieve huge knowledge of devel
 
 ## 🚀 Projects: 
 
-## 1 Brand Shop: 
-- Description: This website is an entertainment and media website. All types of entertainment items are available for users.
+## 1 TrendBurst: 
+- Description: This website is an E-Commerce site. All users can buy his/her fashionable products.
 - Used Technology: 
   - Front-End: javascript, tailwind css, react.
   - Back-End: Nodejs, Express.js.
