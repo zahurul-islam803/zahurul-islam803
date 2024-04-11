@@ -15,32 +15,32 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express)](https://skillicons.dev)
 
 ## 👨🏻‍💻 Current Work: 
-I'm currently exploring my knowledge. I'm try to achieve huge knowledge of development field.So I am working with following technologies:-
+I'm currently exploring my knowledge. I'm trying to achieve a huge knowledge of the development field. So I am working with the following technologies:-
 
-- React: I analysis this technology.
+- React: I analyzed this technology.
 - Nodejs: I capture this technology.
-- Express.js: I'm try to explore Nodejs Framework.
+- Express.js: I'm trying to explore Nodejs Framework.
 - Next.js: I'm trying to explore React Framework.
+- Redux: I'm trying to explore the Redux toolkit.
 
 ## 🚀 Projects: 
 
-## 1 TrendBurst: 
+## 1 TradeSwift: 
+- Description: This website is a trading website. All registered users can real-time trade here.
+- Used Technology: 
+  - Front-End: javascript, tailwind css, nextjs.
+  - Back-End: Nodejs, Express.js.
+  - Authentication: Firebase.
+
+## 2 TrendBurst: 
 - Description: This website is an E-Commerce site. All users can buy his/her fashionable products.
 - Used Technology: 
   - Front-End: javascript, tailwind css, react.
   - Back-End: Nodejs, Express.js.
   - Authentication: Firebase.
 
-## 2 Hotel Booking: 
-- Description: This website is an hotel booking website. All types of hotel rooms  are available for users that they booking their wishes.
-- Used Technology: 
-  - Front-End: javascript, tailwind css, react.
-  - Back-End: Nodejs, Express.js.
-  - Authentication: Firebase with jwt.
-  - Database: MongoDB.
-
-## 3 Tech Product: 
-- Description: This website is an tech product website. Featured and Trending types of tech products are available for users.
+## 3 Hotel Booking: 
+- Description: This website is a hotel booking website. All types of hotel rooms  are available for users who book their wishes.
 - Used Technology: 
   - Front-End: javascript, tailwind css, react.
   - Back-End: Nodejs, Express.js.
@@ -65,7 +65,7 @@ I'm currently exploring my knowledge. I'm try to achieve huge knowledge of devel
 
 - 🔭 I’m currently working on Github 
 - 🌱 I’m currently learning next.js 
-- 👯 I’m looking to collaborate on ohter's
+- 👯 I’m looking to collaborate with other's
 - 
 
 ## 📝 My Github Profile Summary:
